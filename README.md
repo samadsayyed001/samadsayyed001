@@ -89,7 +89,7 @@ I'm currently looking for opportunities as a:
 
 ## 📊 Featured Projects
 
-### 🔹 Sales Performance Analysis Dashboard **Power BI | Excel | Power Query**
+### 🔹 Sales Performance Analysis Dashboard - **Power BI | Excel | Power Query**
 
 * Cleaned and transformed sales data
 * Analyzed revenue, profit and sales growth
@@ -97,7 +97,7 @@ I'm currently looking for opportunities as a:
 * Analyzed product and category performance
 * Identified trends and underperforming categories
 
-### 🔹 SQL Data Analysis **SQL**
+### 🔹 SQL Data Analysis - **SQL**
 
 * Customer analysis
 * Sales analysis
@@ -105,7 +105,7 @@ I'm currently looking for opportunities as a:
 * Business performance analysis
 * Advanced SQL using CTEs and Window Functions
 
-### 🔹 Python Data Analysis **Python | Pandas | NumPy | Matplotlib**
+### 🔹 Python Data Analysis - **Python | Pandas | NumPy | Matplotlib**
 
 * Data cleaning and preprocessing
 * Exploratory Data Analysis
@@ -127,7 +127,7 @@ I'm currently looking for opportunities as a:
 
 ## 🤝 Let's Connect
 
-💼 **LinkedIn:** [Add your LinkedIn URL here](https://www.linkedin.com/in/abdul-samad-721701184/)
+💼 **LinkedIn:** [Click here - LinkedIn](https://www.linkedin.com/in/abdul-samad-721701184/)
 
 📧 **Email:** samadsayyed001@gmail.com
 
