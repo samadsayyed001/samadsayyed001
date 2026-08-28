@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Abdulsamad Sayyed
+# 👋 Hi, I'm Abdulsamad Sayyed!
 
 ### 📊 Data Analyst | Business & Operations Analytics
 
