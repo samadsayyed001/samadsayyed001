@@ -10,6 +10,16 @@ I work with data to clean, analyze, visualize, and transform business informatio
 
 ---
 
+## 🎯 Career Goal
+
+My goal is to build a strong career in **Data Analytics and Business Intelligence**, using data-driven approaches to solve real-world business problems.
+
+I'm currently looking for opportunities as a:
+
+**Data Analyst | Business Analyst | Operations Analyst | Reporting Analyst**
+
+---
+
 ## 🚀 About Me
 
 * 📊 Aspiring **Data Analyst**
@@ -18,7 +28,6 @@ I work with data to clean, analyze, visualize, and transform business informatio
 * 📈 Experienced in reporting, data analysis and dashboard creation
 * 🧹 Hands-on experience with **Data Cleaning & Transformation**
 * 📚 Currently strengthening my **Python & Statistics** skills
-* 🎯 Open to opportunities in **Data Analyst, Business Analyst & Operations Analyst** roles
 
 ---
 
@@ -80,9 +89,7 @@ I work with data to clean, analyze, visualize, and transform business informatio
 
 ## 📊 Featured Projects
 
-### 🔹 Sales Performance Analysis Dashboard
-
-**Power BI | Excel | Power Query**
+### 🔹 Sales Performance Analysis Dashboard **Power BI | Excel | Power Query**
 
 * Cleaned and transformed sales data
 * Analyzed revenue, profit and sales growth
@@ -90,9 +97,7 @@ I work with data to clean, analyze, visualize, and transform business informatio
 * Analyzed product and category performance
 * Identified trends and underperforming categories
 
-### 🔹 SQL Data Analysis
-
-**SQL**
+### 🔹 SQL Data Analysis **SQL**
 
 * Customer analysis
 * Sales analysis
@@ -100,24 +105,12 @@ I work with data to clean, analyze, visualize, and transform business informatio
 * Business performance analysis
 * Advanced SQL using CTEs and Window Functions
 
-### 🔹 Python Data Analysis
-
-**Python | Pandas | NumPy | Matplotlib**
+### 🔹 Python Data Analysis **Python | Pandas | NumPy | Matplotlib**
 
 * Data cleaning and preprocessing
 * Exploratory Data Analysis
 * Identifying trends and patterns
 * Data visualization
-
----
-
-## 🎯 Career Goal
-
-My goal is to build a strong career in **Data Analytics and Business Intelligence**, using data-driven approaches to solve real-world business problems.
-
-I'm currently looking for opportunities as a:
-
-**Data Analyst | Business Analyst | Operations Analyst | Reporting Analyst**
 
 ---
 
@@ -134,9 +127,9 @@ I'm currently looking for opportunities as a:
 
 ## 🤝 Let's Connect
 
-💼 **LinkedIn:** Add your LinkedIn URL here
+💼 **LinkedIn:** [Add your LinkedIn URL here](https://www.linkedin.com/in/abdul-samad-721701184/)
 
-📧 **Email:** Add your professional email here
+📧 **Email:** samadsayyed001@gmail.com
 
 🐙 **GitHub:** `samadsayyed001`
 
@@ -145,3 +138,4 @@ I'm currently looking for opportunities as a:
 ⭐ **Thanks for visiting my profile!**
 
 If you find my projects useful, feel free to ⭐ star the repositories.
+rv
